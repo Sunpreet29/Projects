@@ -1,7 +1,7 @@
 
-path: r"C:\RWTH Aachen University\Projects\Object Detection\OIDv4_ToolKit\OID\Dataset\train\Car"  # dataset root dir
-train: "Yolo_labels"  # train images (relative to 'path')
-val: "Yolo_labels"  # val images (relative to 'path')
+path: C:\RWTH Aachen University\Projects\Object Detection\Car Detection\datasets\Car # dataset root dir
+train: images\train  # train images (relative to 'path')
+val: images\train # val images (relative to 'path')
 
 # Classes
 names:
